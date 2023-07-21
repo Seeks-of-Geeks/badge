@@ -11,3 +11,4 @@ function calculateArea() {
 }
 
 calculateArea();
+console.log("Hello, World!");
